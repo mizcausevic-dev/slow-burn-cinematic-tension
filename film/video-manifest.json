@@ -1,0 +1,26 @@
+{
+  "title": "Slow-Burn Cinematic Tension",
+  "study": "z7601",
+  "bpm": 72,
+  "source_audio": "preview/slow-burn-cinematic-tension-simple-synth-preview.mp3",
+  "source_audio_sha256": "5e16c46fede2c83e794aabd93ae1009ff7d9795c4c9cc044cd00e99b5741a7a9",
+  "source_midi": "midi/z7601-slow-burn-cinematic-tension-opening/z7601-slow-burn-cinematic-tension-opening-combined.mid",
+  "source_midi_sha256": "c1fae9bc38f67be12555f5d8c7cb40ebb6e366df621af169b5af68d4f4e1dbd7",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "096073d80ab2dac4680330014426ba88484ebf805f16c864cb104b2c1a6e4173",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "b994d044073707d8ac8db6a1078a43f142eab99a5cead11f49d53081e55be6d9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "16f25d2b4ee6c539bd8f70db9164201fa5a57bc1a6febe873c588c707e459465",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:30.992449+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "2e94952eb28673e8b8bc0ae36110dd94d613abaaf1bda1330290df7ee23395a3",
+      "errors": []
+    },
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6bbce1858203eded02074c93b5f035c0f05c40147f90ebe9d73035391a01f1ec",
+      "errors": []
+    },
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "80dc28a2c443165585d275a166b135e779501a10472e5d8c9169c819e2affe43",
+      "errors": []
+    },
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "2acd50e24201122620e3204e7ef7831a989b87d9dea65955de609b8126b88f60",
+      "errors": []
+    },
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c201c3824ad6576cedff1244d4537050d3ef3ae611bd4d21ebcb439521c10938",
+      "errors": []
+    },
+    {
+      "path": "midi/z7601-slow-burn-cinematic-tension-opening/z7601-slow-burn-cinematic-tension-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "c1fae9bc38f67be12555f5d8c7cb40ebb6e366df621af169b5af68d4f4e1dbd7",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "c73b290cf1b7bd2cec3c951f3f0f0eb8dd1d2c2e903dc77d21b3b9812f312809",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3228eea92a8b9b87154b97b1faf9a1169af4dc3354ce5d5f447f80fb7007103f",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "fedf605b7bf152878650dcecf00464f7807420199d1d346200afb61c41275ae1",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "b389d1e4151f99c27c50f1d742424bb6e0a895334a125651476090d65ea3e126",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ffa608b531925519343d82e7d5ac133eacfe7b907ea5bb8e6a1ced0a9c993d50",
+      "errors": []
+    },
+    {
+      "path": "midi/z7602-slow-burn-cinematic-tension-variation/z7602-slow-burn-cinematic-tension-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "effd3b3be988ef450df21b63ee695578a18ba68ee0f3a01ab157dd8a837b84db",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "88a720f7aaeb6274d37acdec3f92668302fdb82e31bcf102ae16b734cd4fe8ef",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "5a3f9ffab45ea4ee0754f478d2302f5c8c871ba14ce0bd15a052c900a7840773",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "2790661825a8fb29a1784a167d94a37c61a31273b86758e621abcf9041216c9a",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "7b794c7fc16e2672e545462611fa668cbe5e8164555302c02677dc58d1091535",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "abe739e19f3f8e0e1058fe3ee3031f8f848d863017dec63d62afd6b7dbc24a9b",
+      "errors": []
+    },
+    {
+      "path": "midi/z7603-slow-burn-cinematic-tension-contrast/z7603-slow-burn-cinematic-tension-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "c35faeee8515da01f69f50501cbbf42dff11105d0722560f1d8acd5286c71cf0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "50d1c831cb65e7c98a6de8e46eb6b54742c8e05be6a7670df4da6464caf5ddd0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "72b4407b930c65f8dab25c83225a7f1738cb6bed488457417c4be8d097fc7f37",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "09822f5a44a30dcb77e7ca3360c711185bf8e6b75a76a921b255f87de8084921",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "156ce7bb785aa93e37beae817b1ed77d3a17637a7a904392a3dd39e0ffc6ec99",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a10823263ed68fa7a8f1b75c2dc69b7c0bce612c08bf2a441a07965f9c3d514c",
+      "errors": []
+    },
+    {
+      "path": "midi/z7604-slow-burn-cinematic-tension-return/z7604-slow-burn-cinematic-tension-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "510828891e3fae8080611500944f9a3756597ddc7df629dc85f87d2e4c9b76a1",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

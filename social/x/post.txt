@@ -1,0 +1,3 @@
+DRAFT: Slow-Burn Cinematic Tension Studies is a four-study original MIDI release at 72 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 150 characters using Python len
