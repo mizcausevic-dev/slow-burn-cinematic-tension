@@ -311,6 +311,12 @@ def compose_new_study(study: dict, study_index: int, pattern: int) -> dict[str, 
         section = region_name(bar)
         chord_index = (bar // 4 + study_index) % 4
         melody_bar = sorted((offset + (bar % 3) * (12 if pattern == 48 else 160)) % BAR_TICKS for offset in melody) if pattern in (48,52) else melody
+        # Slow tension: sparse notes and delayed responses across four bars.
+        # The four-bar cycle creates space for the chord and low-string parts.
+        if pattern == 198:
+            suspense_cells = ((240, 1440), (600, 1500),
+                              (120, 960, 1620), (480, 1320))
+            melody_bar = suspense_cells[(bar + study_index) % 4]
         # Intro and contrast use fewer events, while the return revisits the theme.
         for j, offset in enumerate(chords):
             if section == 'introduction' and bar % 2: continue
@@ -325,7 +331,7 @@ def compose_new_study(study: dict, study_index: int, pattern: int) -> dict[str, 
             for j, offset in enumerate(melody_bar):
                 if (bar + study_index) % 4 == 3 and j % 2: continue
                 pitch = study['motif'][contour[(j + bar//4 + (1 if section=='transformed_return' else 0)) % 6]]
-                duration = min(lengths[pattern], BAR_TICKS-offset, (melody_bar[j+1]-offset if j+1<len(melody_bar) else BAR_TICKS-offset))
+                duration = min((540, 300, 420, 270)[(bar+j+study_index)%4] if pattern == 198 else lengths[pattern], BAR_TICKS-offset, (melody_bar[j+1]-offset if j+1<len(melody_bar) else BAR_TICKS-offset))
                 add(scores,'principal_motif',base+offset,pitch,duration,68+(j%3)*7)
         if section in ('statement','transformed_return') and bar % 4 == 1:
             add(scores,'vocal_like_synth',base+360,study['voice'][(bar//4)%4],240,59)

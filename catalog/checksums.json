@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1820,
-      "sha256": "a49069df07dd93b344208dd8e4ec09ea830df33dc9ceaad6492d55064958a55f"
+      "sha256": "505b31403c3ad55b36c97d0dbecd699bc5f651679b715d1744f500a7baa381c8"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 48804,
-      "sha256": "096073d80ab2dac4680330014426ba88484ebf805f16c864cb104b2c1a6e4173"
+      "bytes": 49909,
+      "sha256": "1679fe100577003a40a411ef76c255b5184a5c6d1ede0908ed47a2ecbcbdff67"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 393,
-      "sha256": "d7113046a642f402d55f6b466d77bfe93aced2a690ee62a0a74080b95561ba5c"
+      "sha256": "710772ecea28af593782724b6506105f918e2f0cfd69692955967c9b115602ba"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,88 +108,88 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "5611425b8c4f494680b16ba9981ab62656b9903b96102829c17b8be1edae3e34"
     },
     {
       "path": "clips/z7601-melody-01.mid",
-      "bytes": 121,
-      "sha256": "ea8a05e2dc35815c8c02a4cbde1cdd3bab832ba8772d0e9b6448361a3dea7323"
+      "bytes": 130,
+      "sha256": "e5002f4eb099b02664d03a3a9a8655d83d7f412c5e38b711a82cca24602469ce"
     },
     {
       "path": "clips/z7601-melody-02.mid",
-      "bytes": 121,
-      "sha256": "3a1087eb67bd8111667252712597372f203f21fb046398226c535434a875d60b"
+      "bytes": 130,
+      "sha256": "f442f882906385340f5117966bc7074d39d06b9a5bc46cb7c4d8049eeebe114e"
     },
     {
       "path": "clips/z7601-melody-03.mid",
       "bytes": 91,
-      "sha256": "15a78e6999830bc71dde0a4b183acb7642f5ca32eab6bb07890007312008a70a"
+      "sha256": "25bb6c64d2086770670ad65f9fc4a7e85925ebf31602b1c9e8a9140af914d9d1"
     },
     {
       "path": "clips/z7601-melody-04.mid",
       "bytes": 91,
-      "sha256": "ef301b774f8ee90d319c144eff638ce648cd0c5f81a0c06438bb6270b9ad1460"
+      "sha256": "72f23464ecc188c46b628181eb446f705d3d255cbd067fdfb97d5771e2558b90"
     },
     {
       "path": "clips/z7602-melody-01.mid",
-      "bytes": 120,
-      "sha256": "13f403c3751e6a28ee11aeb63467e953e9238b12be61ea975faf1786fc149065"
+      "bytes": 130,
+      "sha256": "95f337b7c1629136bb589b7cf7a82a1b494d005ddfa06151020ab634498aeaa5"
     },
     {
       "path": "clips/z7602-melody-02.mid",
-      "bytes": 120,
-      "sha256": "15792d6cdfc11baa2a9c37f2c61905a397f7a2ea40b0252ae0fcd6841385fcba"
+      "bytes": 130,
+      "sha256": "8945db98b5b765881a2a4eda79b0bb116d5d86384ccebdb13403cfc7bafb69f5"
     },
     {
       "path": "clips/z7602-melody-03.mid",
-      "bytes": 91,
-      "sha256": "6f68c3b3fca0555461536e427bcf547538053809db0c7112f363d1c8fe2ee98b"
+      "bytes": 101,
+      "sha256": "7cdbf0d6f021c9bf9bc32d8976ae4849d0b56c676f6509c25057ccf21d321576"
     },
     {
       "path": "clips/z7602-melody-04.mid",
-      "bytes": 91,
-      "sha256": "c3e2077b512a62e6693eaa9e2f75aee27fc1412e6f000cad909019220ce1bb13"
+      "bytes": 100,
+      "sha256": "ba820b36b4ee0b3906918b8d316c99dfce31d3eb60feee8c748f3e4b8ff2ddd0"
     },
     {
       "path": "clips/z7603-melody-01.mid",
-      "bytes": 120,
-      "sha256": "dff948dec49facd624f70f4ec9101e9df1a02d15f43be528f163c0009cb5da58"
+      "bytes": 130,
+      "sha256": "37f6800d46bc189871671ed4f345e610e303d29445cfee1efb4f845ecfd2b4cf"
     },
     {
       "path": "clips/z7603-melody-02.mid",
-      "bytes": 120,
-      "sha256": "bf001e072a2a7207ab3bca0dd1720cbd259ef219dd3815438a00ca61643be1ed"
+      "bytes": 130,
+      "sha256": "1204833af9a68f937bc3adf6ec2892a96d22f11898e0e050bafeec6a2d91c178"
     },
     {
       "path": "clips/z7603-melody-03.mid",
       "bytes": 91,
-      "sha256": "8e2dae06f0effee4fd1c2acb1e126d049eba17dcbc613da1d951dfc6f2b3f0e7"
+      "sha256": "8c058c8106d2f14643a5ac40d9415a3cb178f1cab44841324217ce77abb1c78f"
     },
     {
       "path": "clips/z7603-melody-04.mid",
       "bytes": 91,
-      "sha256": "dba9b706d43ca4ba14e8a45961d9566d51428dd878675cbfdaa8c43b31d5c703"
+      "sha256": "2d39f5ad33d485946291453c931d7d9d8a0cccafcec43eb9c9662bf35163c66c"
     },
     {
       "path": "clips/z7604-melody-01.mid",
-      "bytes": 120,
-      "sha256": "34b2d807a2e279445842ed97a3fa9a848f14e818772b281aa46028d28e6be2b0"
+      "bytes": 129,
+      "sha256": "89b99d58fc0b3de6c0e7775e4d358a68d025b2145437888ceb1482cff96a1d3f"
     },
     {
       "path": "clips/z7604-melody-02.mid",
-      "bytes": 120,
-      "sha256": "6130cba058c93d562dc373124b30b5bd89a8b7439c1de646565b52004e895b9c"
+      "bytes": 129,
+      "sha256": "cff07f3ba1c1dd02cf2e10bdb20ad06ae8451a8ff78086ef8369d69a6e7b995d"
     },
     {
       "path": "clips/z7604-melody-03.mid",
       "bytes": 91,
-      "sha256": "e893204f565be51b8273938600729233b45b2ff53e0de12c0530cb363ea83474"
+      "sha256": "f8eaf1afdf1b06b21edb57783c3a0abba20357476dca193815adc93a9aad825d"
     },
     {
       "path": "clips/z7604-melody-04.mid",
       "bytes": 91,
-      "sha256": "6d7fccdb109370fabed4488480d7bb437d61257743c98ea929215d7f7d2c9fb8"
+      "sha256": "e5d7a7b7842bcc44a74ed6460dac736b211a3ee09459c218dd934345c3e23a11"
     },
     {
       "path": "delivery.md",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/slow-burn-cinematic-tension-midi.zip",
-      "bytes": 24767,
-      "sha256": "a55b02dfe97f1186ce7f12ec6c8dbfeaa357d757f2a8c394073ff0aed4d94fc9"
+      "bytes": 25967,
+      "sha256": "e1ab11f03ed56e891c2f612ee8e5511a3ac0167aa7f20809dc2ef7ac6f2fc9c8"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2232,
-      "sha256": "d0245c4ceefc683e894ed2f8a96ec8be01b26572ca26028d05815e7c8397d252"
+      "bytes": 2227,
+      "sha256": "7907aef3a898149686fa8926980e35734da153b841ea760c46478f5c5aeb54b4"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 553450,
-      "sha256": "16f25d2b4ee6c539bd8f70db9164201fa5a57bc1a6febe873c588c707e459465"
+      "bytes": 533190,
+      "sha256": "2322a6c62df74b46c103773c7601a93e0b7a776f1fd91581a6188107990c353e"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1241,
-      "sha256": "6f4d377bf0bc4bd4d6fb464d72de7f4240566765eee0e105372d06420c7f915b"
+      "bytes": 1267,
+      "sha256": "87a62be5c8650c1b0b83ccb47c7b00e29ee5ef2cdf149a36f5849a53dd2cd6bc"
     },
     {
       "path": "index.html",
-      "bytes": 10090,
-      "sha256": "80c4c7a7a0f2a93c859c6e5e71f8ca9d5c3aa56236c8723ac839025bf8373bee"
+      "bytes": 10305,
+      "sha256": "90b690456dc3a0c8378b205f70e12db99e34fb88255aa97f865b790497405603"
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/chord_pulse.mid",
@@ -253,8 +253,8 @@
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "80dc28a2c443165585d275a166b135e779501a10472e5d8c9169c819e2affe43"
+      "bytes": 536,
+      "sha256": "01eaae633321321082f97fb1bd23c98e410a77abc1e081e1b96c5892b40d126e"
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/sub_bass.mid",
@@ -268,8 +268,8 @@
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/z7601-slow-burn-cinematic-tension-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "c1fae9bc38f67be12555f5d8c7cb40ebb6e366df621af169b5af68d4f4e1dbd7"
+      "bytes": 3133,
+      "sha256": "8efd5a901666e309810f9a43f14ca6d2af5f110282eab695d4810f6440c47421"
     },
     {
       "path": "midi/z7602-slow-burn-cinematic-tension-variation/chord_pulse.mid",
@@ -288,8 +288,8 @@
     },
     {
       "path": "midi/z7602-slow-burn-cinematic-tension-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "fedf605b7bf152878650dcecf00464f7807420199d1d346200afb61c41275ae1"
+      "bytes": 554,
+      "sha256": "a95613de1333a9af7375cdabf411f150fb0b71a6a97e1b7f38189b2ee9937238"
     },
     {
       "path": "midi/z7602-slow-burn-cinematic-tension-variation/sub_bass.mid",
@@ -303,8 +303,8 @@
     },
     {
       "path": "midi/z7602-slow-burn-cinematic-tension-variation/z7602-slow-burn-cinematic-tension-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "effd3b3be988ef450df21b63ee695578a18ba68ee0f3a01ab157dd8a837b84db"
+      "bytes": 3151,
+      "sha256": "4e3ae355a49f936a3d54d7e5bf8006ecd49cf4bc4dc315a1e7b7a89aa225cf3f"
     },
     {
       "path": "midi/z7603-slow-burn-cinematic-tension-contrast/chord_pulse.mid",
@@ -323,8 +323,8 @@
     },
     {
       "path": "midi/z7603-slow-burn-cinematic-tension-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "2790661825a8fb29a1784a167d94a37c61a31273b86758e621abcf9041216c9a"
+      "bytes": 536,
+      "sha256": "18befc01f35602cd49969eb227d5acceddba69f5b72238f74dbdf8e57adbf64b"
     },
     {
       "path": "midi/z7603-slow-burn-cinematic-tension-contrast/sub_bass.mid",
@@ -338,8 +338,8 @@
     },
     {
       "path": "midi/z7603-slow-burn-cinematic-tension-contrast/z7603-slow-burn-cinematic-tension-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "c35faeee8515da01f69f50501cbbf42dff11105d0722560f1d8acd5286c71cf0"
+      "bytes": 3133,
+      "sha256": "50ca9753699b5ff7c4b61880f0fbaf100e3cc00f4fdc335f98b5200d859705a2"
     },
     {
       "path": "midi/z7604-slow-burn-cinematic-tension-return/chord_pulse.mid",
@@ -358,8 +358,8 @@
     },
     {
       "path": "midi/z7604-slow-burn-cinematic-tension-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "09822f5a44a30dcb77e7ca3360c711185bf8e6b75a76a921b255f87de8084921"
+      "bytes": 515,
+      "sha256": "e42612e5aa6ff4d53c7e632bc8af6d510b346212758ead0f73b9f2a19a4d6da5"
     },
     {
       "path": "midi/z7604-slow-burn-cinematic-tension-return/sub_bass.mid",
@@ -373,23 +373,28 @@
     },
     {
       "path": "midi/z7604-slow-burn-cinematic-tension-return/z7604-slow-burn-cinematic-tension-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "510828891e3fae8080611500944f9a3756597ddc7df629dc85f87d2e4c9b76a1"
+      "bytes": 3112,
+      "sha256": "e60fccd8e13b04b7279f250db6482d1a6c0d784de92803e604dfc45c58b4f6ad"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1192,
-      "sha256": "4ed90167763ce73eec0da964c7a49323273c8c3b49e9c427c3d64728ce7fba77"
+      "sha256": "17688eed3e73794a67e6f5677d964302108719ddd022426e0832fa096d97eb22"
     },
     {
       "path": "preview/slow-burn-cinematic-tension-simple-synth-preview.mp3",
       "bytes": 2573627,
-      "sha256": "5e16c46fede2c83e794aabd93ae1009ff7d9795c4c9cc044cd00e99b5741a7a9"
+      "sha256": "071f200ce4fbe93f5882f8a1b4575eb010348d514f73f8cc615a40baef4e64f2"
     },
     {
       "path": "README.md",
-      "bytes": 4014,
-      "sha256": "99e0e6ac8782e843097f83b57c687c057d7b472b254f4c2934ba4d292d307b16"
+      "bytes": 4180,
+      "sha256": "ac2973da880f3d183687f759b9b5de887f6f370c63eaa7d767eec2a49cb26d62"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147463,
-      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
+      "bytes": 147895,
+      "sha256": "78cbf0425b4e8fbae5fc71a36f654a496721ca7b92001efee66d1b2a8bcf4384"
     },
     {
       "path": "tools/polish_release.py",

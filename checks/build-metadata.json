@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "slow-burn-cinematic-tension",
-  "source_builder_sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c",
+  "source_builder_sha256": "78cbf0425b4e8fbae5fc71a36f654a496721ca7b92001efee66d1b2a8bcf4384",
   "commands": [
     "python tools/build_release.py --pack slow-burn-cinematic-tension",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-05T19:44:12.137956+00:00",
+  "run_time_utc": "2026-11-06T17:31:32.226174+00:00",
   "python": "3.14.0"
 }

@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:58:30.992449+00:00",
+  "run_time_utc": "2026-11-06T17:31:46.343932+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "80dc28a2c443165585d275a166b135e779501a10472e5d8c9169c819e2affe43",
+      "bytes": 536,
+      "sha256": "01eaae633321321082f97fb1bd23c98e410a77abc1e081e1b96c5892b40d126e",
       "errors": []
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/z7601-slow-burn-cinematic-tension-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "c1fae9bc38f67be12555f5d8c7cb40ebb6e366df621af169b5af68d4f4e1dbd7",
+      "bytes": 3133,
+      "sha256": "8efd5a901666e309810f9a43f14ca6d2af5f110282eab695d4810f6440c47421",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/z7602-slow-burn-cinematic-tension-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "fedf605b7bf152878650dcecf00464f7807420199d1d346200afb61c41275ae1",
+      "bytes": 554,
+      "sha256": "a95613de1333a9af7375cdabf411f150fb0b71a6a97e1b7f38189b2ee9937238",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/z7602-slow-burn-cinematic-tension-variation/z7602-slow-burn-cinematic-tension-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "effd3b3be988ef450df21b63ee695578a18ba68ee0f3a01ab157dd8a837b84db",
+      "bytes": 3151,
+      "sha256": "4e3ae355a49f936a3d54d7e5bf8006ecd49cf4bc4dc315a1e7b7a89aa225cf3f",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/z7603-slow-burn-cinematic-tension-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "2790661825a8fb29a1784a167d94a37c61a31273b86758e621abcf9041216c9a",
+      "bytes": 536,
+      "sha256": "18befc01f35602cd49969eb227d5acceddba69f5b72238f74dbdf8e57adbf64b",
       "errors": []
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "midi/z7603-slow-burn-cinematic-tension-contrast/z7603-slow-burn-cinematic-tension-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "c35faeee8515da01f69f50501cbbf42dff11105d0722560f1d8acd5286c71cf0",
+      "bytes": 3133,
+      "sha256": "50ca9753699b5ff7c4b61880f0fbaf100e3cc00f4fdc335f98b5200d859705a2",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/z7604-slow-burn-cinematic-tension-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "09822f5a44a30dcb77e7ca3360c711185bf8e6b75a76a921b255f87de8084921",
+      "bytes": 515,
+      "sha256": "e42612e5aa6ff4d53c7e632bc8af6d510b346212758ead0f73b9f2a19a4d6da5",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/z7604-slow-burn-cinematic-tension-return/z7604-slow-burn-cinematic-tension-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "510828891e3fae8080611500944f9a3756597ddc7df629dc85f87d2e4c9b76a1",
+      "bytes": 3112,
+      "sha256": "e60fccd8e13b04b7279f250db6482d1a6c0d784de92803e604dfc45c58b4f6ad",
       "errors": []
     }
   ],

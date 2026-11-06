@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/slow-burn-cinematic-tension-simple-synth-preview.mp3",
-  "preview_sha256": "5e16c46fede2c83e794aabd93ae1009ff7d9795c4c9cc044cd00e99b5741a7a9",
+  "preview_sha256": "071f200ce4fbe93f5882f8a1b4575eb010348d514f73f8cc615a40baef4e64f2",
   "source_midi_path": "midi/z7601-slow-burn-cinematic-tension-opening/z7601-slow-burn-cinematic-tension-opening-combined.mid",
-  "source_midi_sha256": "c1fae9bc38f67be12555f5d8c7cb40ebb6e366df621af169b5af68d4f4e1dbd7",
+  "source_midi_sha256": "8efd5a901666e309810f9a43f14ca6d2af5f110282eab695d4810f6440c47421",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
