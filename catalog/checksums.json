@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/slow-burn-cinematic-tension-midi.zip",
-      "bytes": 25967,
-      "sha256": "e1ab11f03ed56e891c2f612ee8e5511a3ac0167aa7f20809dc2ef7ac6f2fc9c8"
+      "bytes": 27412,
+      "sha256": "adede73c3ce20fd8223fbc0cfa8cf92a6405017d2e8c41798c559d0c725ad0be"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10305,
-      "sha256": "90b690456dc3a0c8378b205f70e12db99e34fb88255aa97f865b790497405603"
+      "bytes": 10495,
+      "sha256": "4f396326c7d98b208d5d157e342e5577cb2afb249e8d6928198f58ac1d861ffb"
     },
     {
       "path": "midi/z7601-slow-burn-cinematic-tension-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "e60fccd8e13b04b7279f250db6482d1a6c0d784de92803e604dfc45c58b4f6ad"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1192,
       "sha256": "17688eed3e73794a67e6f5677d964302108719ddd022426e0832fa096d97eb22"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4180,
-      "sha256": "ac2973da880f3d183687f759b9b5de887f6f370c63eaa7d767eec2a49cb26d62"
+      "bytes": 4295,
+      "sha256": "16a2d93eafe1df508c2f14e896dd33f3af1be4fdc817028ff358abc7281b3cbc"
     },
     {
       "path": "REVISION.md",
